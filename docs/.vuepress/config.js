@@ -3,7 +3,6 @@ import { defaultTheme } from '@vuepress/theme-default'
 export default {
   theme: defaultTheme({
     // 在这里进行配置
-    base: '/xiaobaicoding-blogs/',
     title: '小白Coding日志',
     description: '这里是小白Coding日志,会以轻松简单的方式,通过分享编程学习日常,帮助大家一步步掌握编程技能!',
     logo: 'https://vuejs.org/images/logo.png',
