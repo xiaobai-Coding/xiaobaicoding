@@ -1,5 +1,5 @@
 import { defaultTheme } from '@vuepress/theme-default'
-// 部署执行命令，切换到git命令行工具：npm run deploy-gh
+// 部署执行命令，切换到git命令行工具：./deploy.sh
 module.exports = {
   theme: defaultTheme({
     // 在这里进行配置
