@@ -1,1 +1,12 @@
-# '# Hello VuePress' 
+---
+home: true
+heroImage: /images/logo2.png
+heroAlt: 小白Coding日志
+heroText: 小白Coding日志
+tagline: 低头做事无问西东，种下一棵树的最佳时间是十年前和现在
+actions:
+  - text: 开始阅读
+    link: /study/02.md
+    type: primary
+footer: 这里是小白Coding日志,会以轻松简单的方式,通过分享编程学习日常,帮助大家一步步掌握编程技能!
+---
