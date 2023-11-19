@@ -1,4 +1,4 @@
-import{_ as e,o as n,c as r,d as p}from"./app-832e5e53.js";const l={},t=p(`<p>1.语法</p><p>对象可以通过两种方式定义：一种是对象字面量形式，一种是构造形式</p><p>对象字面量：</p><pre><code>var muObject = {
+import{_ as e,o as n,c as r,d as p}from"./app-870a7515.js";const l={},t=p(`<p>1.语法</p><p>对象可以通过两种方式定义：一种是对象字面量形式，一种是构造形式</p><p>对象字面量：</p><pre><code>var muObject = {
   key: value
 }
 </code></pre><p>构造形式的：</p><pre><code>var myObject = new Object()

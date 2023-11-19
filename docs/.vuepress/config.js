@@ -92,6 +92,17 @@ module.exports = {
         text: '生活',
         collapsible: true,
         children: []
+      },
+      {
+        text: '博客',
+        collapsible: true,
+        children: [
+          {
+            text: 'VuePress和Vercel打造个人博客',
+            link: '/blogs/create-blog.md',
+            key: 'create-blog'
+           },
+        ]
       }
     ],
     lastUpdatedText: '上次更新',
