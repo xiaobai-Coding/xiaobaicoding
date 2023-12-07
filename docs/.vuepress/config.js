@@ -48,7 +48,13 @@ module.exports = {
           {
             text: 'React',
             collapsible: true,
-            children: []
+            children: [
+              {
+                text: 'React基础知识入门',
+                link: '/study/react/React基础知识入门.md',
+                key: 'React001'
+               },
+            ]
           },
            /* NestJs */
            {
