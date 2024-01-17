@@ -5,7 +5,10 @@ module.exports = {
   title: '小白Coding日志',
   lang: 'zh-CN',
   description: '这里是小白Coding日志,会以轻松简单的方式,通过分享编程学习日常,帮助大家一步步掌握编程技能!',
-  head: [['link', { rel: 'icon', href: '/images/logo1.png' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/images/logo1.png' }], 
+    ["meta", { name:"referrer", content:"no-referrer"}]
+  ],
   theme: defaultTheme({
     // 在这里进行配置    
     logo: '/images/logo1.png',
@@ -108,6 +111,17 @@ module.exports = {
             link: '/blogs/create-blog.md',
             key: 'create-blog'
            },
+        ]
+      },
+      {
+        text: '年度总结',
+        collapsible: true,
+        children: [
+          {
+            text: '2023年度总结',
+            link: '/life/2023-summary.md',
+            key: '2023-summary'
+          }
         ]
       }
     ],
