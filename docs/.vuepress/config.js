@@ -39,7 +39,18 @@ module.exports = {
           {
             text: 'Vue',
             collapsible: true,
-            children: []
+            children: [
+              {
+                text: '使用Vue纯前端实现发送短信验证码并实现倒计时',
+                link: '/study/vue/sendMessage.md',
+                key: 'sendMessage'
+              },
+              {
+                text: '在 Vue 中将 DOM 导出为图片',
+                link: '/study/vue/domExportImg.md',
+                key: 'domExportImg'
+              },
+            ]
           },
           /* CSS */
           {
@@ -95,7 +106,18 @@ module.exports = {
       {
         text: '工具',
         collapsible: true,
-        children: []
+        children: [
+          {
+            text: 'Git拉取/推送代码报错连接超时：Failed to connect to github.com port 443: Timed out解决方法',
+            link: '/devtool/gitErrorTimeout443.md',
+            key: 'gitErrorTimeout443'
+          },
+          {
+          text: '更新npm镜像源：淘宝镜像已过期，及时切换',
+          link: '/devtool/npmRegistry.md',
+          key: 'npmRegistry'
+          }
+        ]
       },
       {
         text: '生活',
@@ -111,6 +133,11 @@ module.exports = {
             link: '/blogs/create-blog.md',
             key: 'create-blog'
            },
+           {
+            text: 'VuePress渲染网络图片',
+            link: '/blogs/VuePressToMarkdownImg.md',
+            key: 'VuePressToMarkdownImg'
+           }
         ]
       },
       {
