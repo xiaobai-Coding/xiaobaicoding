@@ -46,9 +46,14 @@ module.exports = {
                 key: 'sendMessage'
               },
               {
-                text: '在 Vue 中将 DOM 导出为图片',
+                text: '在Vue中将DOM导出为图片',
                 link: '/study/vue/domExportImg.md',
                 key: 'domExportImg'
+              },
+              {
+                text: 'Vue纯前端实现链接生成二维码并支持下载',
+                link: '/study/vue/linkToQRCode.md',
+                key: 'linkToQRCode'
               },
             ]
           },
