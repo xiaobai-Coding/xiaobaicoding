@@ -61,7 +61,13 @@ module.exports = {
           {
             text: 'CSS',
             collapsible: true,
-            children: []
+            children: [
+              {
+                text: 'CSS布局——Flexbox基础使用',
+                link: '/study/css/flex/flex-basis.md',
+                key: 'flex-basis'
+               },
+            ]
           },
           /* React */
           {
