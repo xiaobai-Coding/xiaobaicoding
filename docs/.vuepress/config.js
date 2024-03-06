@@ -66,7 +66,12 @@ module.exports = {
                 text: 'CSS布局——Flexbox基础使用',
                 link: '/study/css/flex/flex-basis.md',
                 key: 'flex-basis'
-               },
+              },
+              {
+              text: 'CSS布局——Flexbox布局中的对齐方式',
+              link: '/study/css/flex/flex-align.md',
+              key: 'flex-align'
+              },
             ]
           },
           /* React */
