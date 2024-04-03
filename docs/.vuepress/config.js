@@ -26,13 +26,29 @@ module.exports = {
           /* JavaScript */
           {
             text: 'JavaScript',
-            collapsible: true,
+            collapsible: false,
             children: [
               {
-                text: '01.md',
-                link: '/study/01.md',
-                key: 'JavaScript'
-               },
+                text: '你不知道的JavaScript',
+                collapsible: true,
+                children: [
+                  {
+                    text: '对象',
+                    link: '/study/javascript/object.md',
+                    key: 'JavaScriptobject'
+                  },
+                  {
+                    text: '对象操作方法',
+                    link: '/study/javascript/objectOperMehods.md',
+                    key: 'objectOperMehods'
+                  },
+                  {
+                    text: '探索JavaScript数组的奥秘：从入门到精通',
+                    link: '/study/javascript/arrayToMethods.md',
+                    key: 'arrayToMethods'
+                  },
+                ]
+              }
             ]
           },
           /* Vue */
@@ -97,16 +113,7 @@ module.exports = {
               text: 'ThreeJs',
               collapsible: true,
               children: []
-            },
-         {
-          text: '02.md',
-          link: '/study/02.md',
-         },
-         {
-          text: '03.md',
-          link: '/study/03.md',
-         }
-         
+            }
         ]
       },
       {
