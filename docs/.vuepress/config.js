@@ -47,6 +47,11 @@ module.exports = {
                     link: '/study/javascript/arrayToMethods.md',
                     key: 'arrayToMethods'
                   },
+                  {
+                    text: '深入理解JavaScript作用域',
+                    link: '/study/javascript/scoped.md',
+                    key: 'scoped'
+                  },
                 ]
               }
             ]
