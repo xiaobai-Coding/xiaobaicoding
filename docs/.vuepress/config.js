@@ -52,6 +52,11 @@ module.exports = {
                     link: '/study/javascript/scoped.md',
                     key: 'scoped'
                   },
+                  {
+                    text: '作用域与闭包深入解析与实践指南',
+                    link: '/study/javascript/closure.md',
+                    key: 'closure'
+                  },
                 ]
               }
             ]
