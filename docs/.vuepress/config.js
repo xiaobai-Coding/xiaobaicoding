@@ -98,6 +98,11 @@ module.exports = {
               link: '/study/css/flex/flex-align.md',
               key: 'flex-align'
               },
+              {
+                text: 'CSS 元素尺寸单位——像素、百分比、em、rem 和 viewport 单位',
+                link: '/study/css/flex/element-size.md',
+                key: 'element-size'
+                },
             ]
           },
           /* React */
