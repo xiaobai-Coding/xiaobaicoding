@@ -57,6 +57,11 @@ module.exports = {
                     link: '/study/javascript/closure.md',
                     key: 'closure'
                   },
+                  {
+                    text: '深入理解 JavaScript 中的 this 关键字',
+                    link: '/study/javascript/javascript-this.md',
+                    key: 'javascript-this'
+                  },
                 ]
               }
             ]
@@ -80,6 +85,11 @@ module.exports = {
                 text: 'Vue纯前端实现链接生成二维码并支持下载',
                 link: '/study/vue/linkToQRCode.md',
                 key: 'linkToQRCode'
+              },
+              {
+                text: 'Vue 组件通信：探索 provide/inject 替代 Vuex 的妙用',
+                link: '/study/vue/provide-inject.md',
+                key: 'provide-inject'
               },
             ]
           },
