@@ -62,6 +62,11 @@ module.exports = {
                     link: '/study/javascript/javascript-this.md',
                     key: 'javascript-this'
                   },
+                  {
+                    text: '深入理解JavaScript类型和语法',
+                    link: '/study/javascript/type&syntax.md',
+                    key: 'javascript-this'
+                  },
                 ]
               }
             ]
