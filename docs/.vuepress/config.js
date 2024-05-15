@@ -67,6 +67,11 @@ module.exports = {
                     link: '/study/javascript/type&syntax.md',
                     key: 'javascript-this'
                   },
+                  {
+                    text: '探索JavaScript对象与原型',
+                    link: '/study/javascript/object&prototype.md',
+                    key: 'object&prototype'
+                  },
                 ]
               }
             ]
