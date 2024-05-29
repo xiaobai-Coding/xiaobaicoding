@@ -101,6 +101,11 @@ module.exports = {
                 link: '/study/vue/provide-inject.md',
                 key: 'provide-inject'
               },
+              {
+                text: "Vue3中的 emit('update:modelValue')：更灵活的双向绑定",
+                link: '/study/vue/Vue3update_modelValue.md',
+                key: 'Vue3update_modelValuet'
+              },
             ]
           },
           /* CSS */
