@@ -73,6 +73,17 @@ module.exports = {
                     key: 'object&prototype'
                   },
                 ]
+              },
+              {
+                text: 'ES6',
+                collapsible: true,
+                children: [
+                  {
+                    text: '详解let 与 const 用法',
+                    link: '/study/javascript/es6/let&const.md',
+                    key: 'let&const'
+                  },
+                ]
               }
             ]
           },
