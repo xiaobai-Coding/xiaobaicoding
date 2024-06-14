@@ -117,6 +117,11 @@ module.exports = {
                 link: '/study/vue/Vue3update_modelValue.md',
                 key: 'Vue3update_modelValuet'
               },
+              {
+                text: "如何在 Vue 3 中使用 vue3-print-nb 实现灵活的前端打印",
+                link: '/study/vue/vue3-print-nb.md',
+                key: 'vue3-print-nb'
+              },
             ]
           },
           /* CSS */
