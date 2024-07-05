@@ -83,9 +83,14 @@ module.exports = {
                     link: '/study/javascript/es6/let&const.md',
                     key: 'let&const'
                   },
+                  {
+                    text: '变量的解构赋值',
+                    link: '/study/javascript/es6/deconstructiveAssignment.md',
+                    key: 'deconstructiveAssignment'
+                  },
                 ]
               }
-            ]
+            ] 
           },
           /* Vue */
           {
