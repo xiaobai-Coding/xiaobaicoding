@@ -72,6 +72,11 @@ module.exports = {
                     link: '/study/javascript/object&prototype.md',
                     key: 'object&prototype'
                   },
+                  {
+                    text: '强制类型转换',
+                    link: '/study/javascript/typeConversion.md',
+                    key: 'typeConversion'
+                  },
                 ]
               },
               {
