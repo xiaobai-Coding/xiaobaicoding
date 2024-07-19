@@ -163,7 +163,12 @@ module.exports = {
             children: [
               {
                 text: 'React基础知识入门',
-                link: '/study/react/React基础知识入门.md',
+                link: '/study/react/foundation.md',
+                key: 'React001'
+               },
+               {
+                text: '打造超酷的React迷你日历组件，只需几步！',
+                link: '/study/react/calendar-mini.md',
                 key: 'React001'
                },
             ]
