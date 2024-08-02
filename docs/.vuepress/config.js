@@ -93,6 +93,11 @@ module.exports = {
                     link: '/study/javascript/es6/deconstructiveAssignment.md',
                     key: 'deconstructiveAssignment'
                   },
+                  {
+                    text: '深入浅出ES6 Class：从基础到进阶',
+                    link: '/study/javascript/es6/es6-class.md',
+                    key: 'deconstructiveAssignment'
+                  },
                 ]
               }
             ] 
