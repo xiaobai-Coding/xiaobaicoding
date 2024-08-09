@@ -221,7 +221,13 @@ module.exports = {
       {
         text: '生活',
         collapsible: true,
-        children: []
+        children: [
+          {
+            text: '陕西油泼面',
+            link: '/life/youpomian.md',
+            key: 'youpomian'
+          },
+        ]
       },
       {
         text: '博客',
