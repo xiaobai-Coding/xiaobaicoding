@@ -227,6 +227,11 @@ module.exports = {
             link: '/life/youpomian.md',
             key: 'youpomian'
           },
+           {
+            text: '婚礼时光记忆',
+            link: '/life/weddingMemories.md',
+            key: 'weddingMemories'
+           }
         ]
       },
       {
@@ -251,7 +256,7 @@ module.exports = {
         children: [
           {
             text: '2023年度总结',
-            link: '/life/2023-summary.md',
+            link: '/summarize/2023-summary.md',
             key: '2023-summary'
           }
         ]
